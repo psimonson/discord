@@ -1,0 +1,6 @@
+*.json
+*.crt
+*.dll
+*.exe
+*.txt
+*.o
